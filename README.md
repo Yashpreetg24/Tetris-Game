@@ -14,9 +14,9 @@ Tetris is a classic tile-matching puzzle game that has entertained players for d
 
 ## 🛠️ Technologies Used
 
-- **HTML5** – Structure of the game.
-- **CSS3** – Styling and UI design.
-- **JavaScript (ES6)** – Game logic and interactions.
+- **HTML** – Structure of the game.
+- **CSS** – Styling and UI design.
+- **JavaScript** – Game logic and interactions.
 
 ## 🚀 Getting Started
 
